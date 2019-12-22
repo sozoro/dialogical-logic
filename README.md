@@ -1,0 +1,1 @@
+dialogical logic in agda
